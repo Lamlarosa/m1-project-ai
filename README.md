@@ -1,13 +1,13 @@
 Project Akhir AI - M1
 
-1. Judul Proyek & Elevator Pitch
+1. Judul Proyek & Elevator Pitch: 
 "Sistem Rekomendasi Jadwal Belajar untuk Mahasiswa Semester 5" 
 Solusi sederhana untuk membantu mahasiswa mengatur waktu belajar lebih efektif dengan menganalisis jam belajar dan performa tugas, sehingga hasil akademik lebih optimal tanpa mengorbankan keseimbangan hidup.
 
-2. Problem Statement & Nilai Bisnis/Pengguna
+2. Problem Statement & Nilai Bisnis/Pengguna: 
 Mahasiswa semester 5 sering menghadapi kesulitan membagi waktu belajar dengan aktivitas kuliah, organisasi, dan kehidupan pribadi. Akibatnya, performa akademik dapat menurun dan tingkat stres meningkat. Sistem rekomendasi jadwal belajar ini memberikan panduan sederhana agar mahasiswa dapat belajar lebih terstruktur, meningkatkan produktivitas akademik, serta menjaga keseimbangan kehidupan sehari-hari. Nilai utama proyek ini adalah manfaat langsung bagi mahasiswa sebagai pengguna serta kontribusi pada kualitas pendidikan di lingkungan kampus.
 
-3. Scope
+3. Scope: 
     # In-scope:
     - Eksplorasi data dummy (jam belajar vs skor tugas).  
     - Analisis korelasi sederhana untuk melihat hubungan jam belajar dengan hasil tugas.  
@@ -33,5 +33,5 @@ Mahasiswa semester 5 sering menghadapi kesulitan membagi waktu belajar dengan ak
 - Minggu 3: Uji aturan rekomendasi sederhana.  
 - Minggu 4: Evaluasi hasil, tulis laporan, finalisasi repo.  
 
-7. Etika & Privasi
+7. Etika & Privasi: 
     Data yang digunakan hanya data dummy, tidak mengandung informasi pribadi. Risiko privasi sangat rendah karena diminimalisasi dengan membuat data dummy yang seimbang dan juga proyek ini dibuat hanya untuk digunakan sebagai pembelajaran.
